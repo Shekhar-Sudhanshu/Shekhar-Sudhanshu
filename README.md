@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shekhar-sudhanshu&rank=-?" alt="shekhar-sudhanshu" /></a> </p>
 
 
-- 🔭 I’m currently working on [College ERP](https://erp.ggits.org/)
+- 🔭 I’m currently working on [College ERP](https://erp.ggits.org/) & [College Career Quiz](https://quiz.ggits.org/)
 
 - 🌱 I’m currently learning **Flutter**
 
